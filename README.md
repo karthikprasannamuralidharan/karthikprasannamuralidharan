@@ -1,3 +1,5 @@
+![logo](https://github.com/karthikprasannamuralidharan/karthikprasannamuralidharan/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi there, I'm Karthik Muralidharan! 👋</h1>
 <h3 align="center">🎓 Computer Engineering graduate | 💻 Full Stack Developer | 🌱 Machine Learning Enthusiast</h3>
 
