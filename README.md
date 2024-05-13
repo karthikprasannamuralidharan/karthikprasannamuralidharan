@@ -1,16 +1,21 @@
 ![logo](https://github.com/karthikprasannamuralidharan/karthikprasannamuralidharan/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi there, I'm Karthik Muralidharan! 👋</h1>
-<h3 align="center">🎓 Computer Engineering graduate | 💻 Full Stack Developer | 🌱 Machine Learning Enthusiast</h3>
+<h3 align="center">🎓 Computer Engineering graduate | 💻 Full Stack Developer | 🤖  Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/55c6447056dee08842ca232bf5e61fd03a3fad92467e82327bf70069a7c58aaa/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383831362f73637265656e73686f74732f31353633373235362f6d656469612f66393832366630616638613439343632663034383236326138353032303335622e676966">
 
-### About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🎓 I recently graduated with a Bachelor's degree in Computer Engineering.
-- 🌱 I'm currently focusing on Full Stack Web Development projects.
 - 💼 I'm seeking opportunities to contribute to cutting-edge technology solutions.
-- 💻 I'm proficient in following Tools and Technologies.
+- ☕ I'm a coffee enthusiast, and I firmly believe that it's the perfect fuel for coding sessions.
+- ⚡ Fun fact: I believe in the Butterfly Effect: Small actions can have far-reaching consequences, just like the flap of a butterfly's wings can cause a tornado on the other side of the world. 🦋
+- 💡 I'm interested in all things data: Full Stack Web Development, Big Data, AI, Machine Learning, and Data Science.
+- 💬 Talk to me about Cricket 🏏, Memes 😂, Anime, Movies 🎥, Songs 🎵, or Amateur Photography 📸.
+
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming)
+
 
 <h3 align="left">Skills:</h3>
 <h3 align="left">Programming Languages:</h3>
@@ -105,7 +110,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="mailto:karthikmurali3110@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="karthikmurali3110@gmail.com" height="30" width="40" />
